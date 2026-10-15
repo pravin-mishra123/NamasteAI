@@ -4,13 +4,13 @@
  * Roadmap
   - Introduction, LLMs, Prompt Eng, AI for SDE, Tool, RAG, AI Agents, AI Eng, Project
  * Pre - requisites
-  - Javascript / Python
-  - Basic Node.Js
-  - CRUD & APIs
-  - Basic Git
-  - React/Angular
-  - Express
-  - MongoDB / Postgres SQL / MSSQL
+   - Javascript / Python
+   - Basic Node.Js
+   - CRUD & APIs
+   - Basic Git
+   - React/Angular
+   - Express
+   - MongoDB / Postgres SQL / MSSQL
   --------------------------------------------------------------------
   - Machine Learning - Not necessory
   - Advance Python and it's packages - Not necessory
@@ -92,4 +92,31 @@
   - A large vocabulary is always better - No (Not necessory)
   - Large context means perfact memory - No (Not necessory it comes with limit)
   - More tokens always produce a better answers - No (Not necessory)
+
+## Episode-05 | How Machines Represnt Meaning
+ * What is Vectorization in AI ?
+
+ * How it works ?
+  - Mathemetical Bridge
+  - Capturining Meaning
+  - Measuring Distance
+
+ * Comman Use Cases
+  - Sementic Search
+  - Retrieval Augmented Generation (RAG)
+  - Recommendation Systems
+  - Image and Audio Recognitions
+
+ * Comman Vectorization Techniques
+  - One-Hot Encoding:
+  - Bag-of-Words (BoW):
+  - Term Frequency-Inverse Document Frequency (TF-IDF):
+  - Word Embeddings:
+  - Transformer Models
+
+  - Read More about Vectorization :
+   - https://medium.com/ultimate-systems-design-and-building/understanding-vectorization-in-machine-learning-a-laymans-guide-6a26a49d64d1
+
+   - https://datanorth.ai/blog/vectorization-in-ai-transforming-data-into-machine-understandable-representations
+
 
