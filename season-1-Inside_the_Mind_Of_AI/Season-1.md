@@ -1,6 +1,42 @@
 # Season-1 Inside the Mind of AI
 
 ## Episode-01 | Welcome to Namaste AI
+ * Roadmap
+  - Introduction, LLMs, Prompt Eng, AI for SDE, Tool, RAG, AI Agents, AI Eng, Project
+ * Pre - requisites
+  - Javascript / Python
+  - Basic Node.Js
+  - CRUD & APIs
+  - Basic Git
+  - React/Angular
+  - Express
+  - MongoDB / Postgres SQL / MSSQL
+  --------------------------------------------------------------------
+  - Machine Learning - Not necessory
+  - Advance Python and it's packages - Not necessory
+  - Statistics - Not necessory
+  - Leanear Algebra - Not necessory
+  - Advance Maths - Not necessory
+  - Neural Networks - Not necessory
+
+ * How to get the most out of this course ?
+  - Notes - Make your own notes
+  - Assignments
+  - Community / Network
+  - Time and patience 
+
+ * How to Learn from this course
+  - Don't Binge Watch
+  - Code with me 
+  - Pause videos and take notes
+  - Do Assignments
+  - Build Projects
+  -------------------------------------------------------------
+  - Experiments and be curious
+  - Break things in chunks
+  - Fix things
+  - Figure out
+  - Social Media and Help others
 
 ## Episode-02 | The Evolution of AI
 - https://en.wikipedia.org/wiki/AI_winter
