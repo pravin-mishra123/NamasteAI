@@ -114,7 +114,7 @@
    - Word Embeddings:
    - Transformer Models
 
-   - ==Read More about Vectorization==
+   - `Read More about Vectorization`
     - https://medium.com/ultimate-systems-design-and-building/understanding-vectorization-in-machine-learning-a-laymans-guide-6a26a49d64d1
 
     - https://datanorth.ai/blog/vectorization-in-ai-transforming-data-into-machine-understandable-representations
