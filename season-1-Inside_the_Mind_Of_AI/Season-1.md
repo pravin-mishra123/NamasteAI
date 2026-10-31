@@ -114,9 +114,30 @@
    - Word Embeddings:
    - Transformer Models
 
-   - `Read More about Vectorization`
+     `Go and Read More about Vectorization`
     - https://medium.com/ultimate-systems-design-and-building/understanding-vectorization-in-machine-learning-a-laymans-guide-6a26a49d64d1
 
     - https://datanorth.ai/blog/vectorization-in-ai-transforming-data-into-machine-understandable-representations
 
+ * Embeddings (V.V.Imp)
+   - An Embedding is a learn numerical representation of an item that captures usful relationships with other options
 
+ * Embedding as Co-ordinates
+ * Dimension in an embedding
+ * Sementic Similarity
+ * Cosine Similarity
+ * How to calculate cosine Similarity
+   `Go and Read More about`
+   - https://www.learndatasci.com/glossary/cosine-similarity/
+   - https://www.learndatasci.com/
+
+ * To understand how close of embedding of each words and there dimensions then visit 
+   - https://projector.tensorflow.org/
+
+ * Token Embeddings vs Text Embeddings
+ * Static vs Contextual Meaning 
+ * How Modern LLMs handle context [Contextualization]
+ * Bias in Embeddings 
+ * Embeddings in Sementic Search
+ * Famous Research Paper `Attention Is All You Need` published by Google
+   - https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf
