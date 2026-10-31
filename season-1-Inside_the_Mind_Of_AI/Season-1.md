@@ -39,6 +39,29 @@
    - Social Media and Help others
 
 ## Episode-02 | The Evolution of AI
+  * Evolution of AI
+  * What is Artificial Intelligence
+   - https://aws.amazon.com/what-is/transformers-in-artificial-intelligence/
+   - https://www.youtube.com/watch?v=WXuK6gekU1Y
+
+    - 1950 - Can Machine Think
+    - 1955 - John Mccarthy (Programmer)
+    - 1986 - Synthetic Intelligence
+     - https://www.opentrain.ai/glossary/synthetic-intelligence/
+
+    - 1997 - IBM Developed Deep Blue
+
+  * Rule Based AI (1950-1980)
+  * Difference between Machine Learning and Deep Learning 
+  * Computer Vision Revolution
+  * Natural Language Processing (NLP)
+  * Transformers (2017) -IMP
+    - https://research.google/blog/transformer-a-novel-neural-network-architecture-for-language-understanding/
+    - https://medium.com/@amanatulla1606/transformer-architecture-explained-2c49e2257b4c
+
+  * Large Language Model
+  * Generative AI (GenAI) - IMP
+
  - https://en.wikipedia.org/wiki/AI_winter
 
 ## Episode-03 | Does ChatGPT know or Does it Guess?
