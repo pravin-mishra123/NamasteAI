@@ -190,3 +190,38 @@
 * LLM Visualization application and creator
   - Creator : https://bbycroft.net/
   - LLM Visualization tool : https://bbycroft.net/llm
+
+## Episode-07 | Sharping the Brain
+* Difference between trained and untrained neural network
+
+* How Neural Network Getting Trained ?
+* What does "Learning" Actually means for Machine 
+* What is Parameter/Weight in the Neural Network?
+  - Does Parameter store knowledge?
+  - How is it related to Training Data?
+
+* Explain Forword Pass in Neural Network
+* How to Adjust the number ? How much to adjust the number ? (important)
+* Explain Loss Function
+* Explain Backpropagation 
+* Explain Gradient in detail
+  - Does Backpropagation fix the weight?
+* Which algorithm use the gradient to update the weight/parameter?
+  - Algorithm - Gradient Descent
+  - Core components :-  
+    - Loss function -> Gradient -> Learning Rate
+  - Main Types:-
+    - Batch Gradient Descent
+    - Stochastic Gradient Descent
+    - Mini Batch Gradient Descent
+
+* What are the Challenges
+  - Learning rate too Small :- Training take forever
+  - Learning rate too Large :- The algorith overshoots the minimum and fails to coverage.
+  - Local Minima or Saddle Points: The System can get stuck where the slop is flat.
+
+* Whole Process :- 
+  - Sample Data/Inputs -> Forword Pass -> Calculate Loss -> Backpropagation -> Gradient Descent (Optimizer) -> Better Model
+
+  - "You keep doing this again an again and again for a huge an huge amount of traning Data
+
