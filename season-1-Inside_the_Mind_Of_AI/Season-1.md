@@ -164,3 +164,29 @@
  * Embeddings in Sementic Search
  * Famous Research Paper `Attention Is All You Need` published by Google
    - https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf
+
+## Episode-06 | The Computational Brain of Machine
+* Who Invented Transformer Architecture
+  - The Transformer architecture was introduced in 2017 by a team of eight google researcher
+  Who Co-authored the seminal paper " Attention Is All You Need"
+* "Attention Is All You Need"
+  - https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf
+
+* Transefer architecture work flow
+  - Token Embedding > Positional Embedding > Layer Normalization (Multiple times) > Multi-Head, Causal self-attention > Layer Normalization > Feed forword Network > Layer Normalization > Liner > Softmax
+
+* RNNs and LSTMs
+
+* Feed Forword Neural Network (FNN)
+  - https://en.wikipedia.org/wiki/Feedforward_neural_network
+  - https://medium.com/@sasirekharameshkumar/deep-learning-basics-part-10-feed-forward-neural-networks-ffnn-93a708f84a31
+
+* What is Logits ?
+  - https://en.wikipedia.org/wiki/Logit
+
+* What is Softmax ?
+  - https://en.wikipedia.org/wiki/Softmax_function
+
+* LLM Visualization application and creator
+  - Creator : https://bbycroft.net/
+  - LLM Visualization tool : https://bbycroft.net/llm
